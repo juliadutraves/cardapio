@@ -7,6 +7,7 @@
 * [Funcionalidades](#funcionalidades)
 * [Tecnologias Utilizadas](#tecnologias-utilizadas)
 * [Autores](#autores)
+* [Referências](#referencias)
  
 #   Projeto de criação de cardápio
  
